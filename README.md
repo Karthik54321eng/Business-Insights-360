@@ -5,7 +5,9 @@ I worked on this project by following the Codebasics Power Bi Course, Link to th
 **🛠️Tools:**
 
   1)Excel-Data cleaning and transformation, Pivot Table, Power Query.
+  
   2)SQL-Data Retrieval, Aggregation, Data Integration.
+  
   3)Power BI Desktop -Data Modelling, Dax, Power Query (M Language).
   
 **A)🏬Company Overview:**

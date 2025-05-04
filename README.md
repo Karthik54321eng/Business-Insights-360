@@ -14,13 +14,13 @@ I worked on this project by following the Codebasics Power Bi Course, Link to th
 
 AtliQ Hardware (imaginary company) is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
 
-2 Primary sales platforms:
+**2 Primary sales platforms:**
 
    1)Brick-and-Mortar Stores – Partnering with physical retail outlets like Croma and Best Buy.
    
    2)E-Commerce Platforms – Selling through online giants like Amazon and Flipkart.
    
-3 Multiple sales channels:
+**3 Multiple sales channels:**
 
    1)Retailers – Third-party sellers, both online and offline, that stock and sell AtliQ’s products.
    
@@ -31,17 +31,17 @@ AtliQ Hardware (imaginary company) is a rapidly growing electronics company spec
        
 Note: AtliQ’s customers are retailers and distributors, while the consumers are the end users.
 
-B)🔎 Problem Statement:
+**B)🔎 Problem Statement:**
 
 AtliQ Hardware (a mock enterprise) faced major losses due to inefficient decision-making caused by scattered Excel sheets. Competitors using advanced analytics gained an edge, leaving AtliQ struggling with outdated methods. To stay competitive, AtliQ launched a data analytics project to make data driven decision making & strategic growth.
 
-C)🎯Project Objective:
+**C)🎯Project Objective:**
 
 To develop an intuitive dashboard that delivers actionable insights for finance, sales, marketing, and supply chain teams, along with an executive and key performers view. This will enhance transparency, improve data accessibility, and empower stakeholders to make informed, data-driven decisions for strategic growth and efficiency.
 
-D)🛢Data Overview:
+**D)🛢Data Overview:**
 
-3 Excel files:
+**3 Excel files:**
 
     1)Operating Expenses,
     
@@ -49,7 +49,7 @@ D)🛢Data Overview:
     
     3)Market Share (limited to the Personal Computer division).
     
-2 databases:
+**2 databases:**
 
     1)gdb041:
 		
@@ -65,19 +65,19 @@ D)🛢Data Overview:
  
  NOTE: Since this is a bootcamp project, the data files cannot be shared.
 
-E)📑Importing data into PowerBi:
+**E)📑Importing data into PowerBi:**
 
        Imported datasets from MySQL Database to Power BI.
 
-F)🧹️Data Cleaning & Transformation:
+**F)🧹️Data Cleaning & Transformation**:
 
-Standardized & Trimmed Data:
+**Standardized & Trimmed Data:**
 
       1)Removed leading and trailing spaces from text fields.
 			
       2)Standardized naming conventions for consistency.
 			
-Data Structuring & Optimization:
+**Data Structuring & Optimization:**
 
       1)Created a dim_date table for better time-based analysis.
 			
@@ -87,11 +87,11 @@ Data Structuring & Optimization:
 			
       4)Disabled load for tables that were used to derive calculations in fact_actual_estimates to optimize performance and reduce the Power BI report size.
 
-G) 🛢 Data Model:
+**G) 🛢 Data Model:**
 
         Snowfall data modeling method.
 
-H)📑 Report Inclusions:
+**H)📑 Report Inclusions:**
 
         Includes a PDF version of the Power BI report in PDF,
 				
@@ -99,15 +99,15 @@ H)📑 Report Inclusions:
 			 
        2)Live Dashboard in Power Bi Service.
 			 
-I)💡Insights:
+**I)💡Insights:**
 
-Business Growth & Financial Performance:
+**Business Growth & Financial Performance:**
 
        1)Rapid expansion: Net Sales grew ~280% (FY 2019), ~140% (FY 2020), ~200% (FY 2021) and ~350% (FY 2022).
 			 
        2)Net Profit % remains negative since 2020 due to high operational and marketing expenses,typical for a company in its growth phase.
 			 
-Revenue & Market Trends:
+**Revenue & Market Trends:**
 
        1)APAC remained the largest market (FY 2019–FY 2022), led by India, while Latin America was the smallest.
 			 
@@ -119,13 +119,13 @@ Revenue & Market Trends:
 			 
        5)USB flash drives underperformed in FY 2021 & FY 2022, signaling product or market challenges.
 			 
-Sales & Customer Insights:
+**Sales & Customer Insights:**
 
        1)Flat post-discounting model for all products and customers within each market is significantly eroding Gross Margin %. A performance-based discounting strategy per product and customer within each market is recommended to optimize profitability.
 			 
        2)Certain products, like AQ 5000 Series Electron 9 5900X, AQ MB Elite, and AQ Wi Power Dx1, had zero sales in FY 2022, likely due to demand shifts or outdated models.
 			 
-Forecast Accuracy & Supply Chain Efficiency:
+**Forecast Accuracy & Supply Chain Efficiency:**
 
        1)Forecast Accuracy (FCA%) dropped from ~86% (FY 2019) to ~73% (FY 2020) due to COVID-19 disruptions but improved to ~80% (FY 2021) and ~81% (FY 2022).
 			 
@@ -133,7 +133,7 @@ Forecast Accuracy & Supply Chain Efficiency:
 			 
        3)Work-from-home demand surged in FY 2020, leading to stockouts for processors, keyboards, and WiFi extenders.
 			 
-Competitive Position & Market Share:
+**Competitive Position & Market Share:**
 
        1)Atliq’s PC market share grew from ~1% (FY 2021) to ~6% (FY 2022), though Dale remains the dominant player.
 			 
@@ -141,7 +141,7 @@ Competitive Position & Market Share:
           
 			 3)Among subzones, North America had the highest revenue in FY 2022, but Atliq’s market penetration remained only ~5%.
 		
-Operational & Strategic Insights:
+**Operational & Strategic Insights:**
 
        1)Sales peaked from September to December across all years, likely due to festive and year-end promotions.
 			 
@@ -149,7 +149,7 @@ Operational & Strategic Insights:
 			 
        3)The UK had the highest marketing costs, making it a key area for strategy review, followed by Germany (low revenue, high marketing spend).
 			 
-J)📝 Recommendations: 
+**J)📝 Recommendations:**
 
        1)Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
 			 

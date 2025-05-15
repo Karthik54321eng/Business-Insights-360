@@ -2,6 +2,10 @@
 
 I worked on this project by following the Codebasics Power Bi Course, Link to the course is     (https://prod4.codebasics.io/)
 
+Live Power BI Project Link : (https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885)
+
+Dashboard in PDF : (https://smallpdf.com/file#s=a83dca1c-e9ec-436d-bc3f-20c4695b1263)
+
 **🛠️Tools:**
 
   1)Excel-Data cleaning and transformation, Pivot Table, Power Query.
@@ -95,9 +99,9 @@ To develop an intuitive dashboard that delivers actionable insights for finance,
 
        Includes a PDF version of the Power BI report,
 				
-       1)Dashboard in PDF,https://smallpdf.com/file#s=a83dca1c-e9ec-436d-bc3f-20c4695b1263
+       1)Dashboard in PDF,(https://smallpdf.com/file#s=a83dca1c-e9ec-436d-bc3f-20c4695b1263)
 			 
-       2)Live Dashboard in Power Bi Service.https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885
+       2)Live Dashboard in Power Bi Service.(https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885)
 			 
 **I)💡Insights:**
 

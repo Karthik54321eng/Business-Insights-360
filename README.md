@@ -14,7 +14,7 @@ Poject Presentation PDF : https://github.com/Karthik54321eng/Business-Insights-3
   
   3)Power BI Desktop -Data Modelling, Dax, KPIs, Power Query (M Language).
   
-**A)🏬Company Overview:**
+**A)Company Overview:**
 
 AtliQ Hardware (imaginary company) is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
 
@@ -35,15 +35,15 @@ distributors to ensure product availability.
        
 Note: AtliQ’s customers are retailers and distributors, while the consumers are the end users.
 
-**B)🔎 Problem Statement:**
+**B)Problem Statement:**
 
 AtliQ Hardware (a mock enterprise) faced major losses due to inefficient decision-making caused by scattered Excel sheets. Competitors using advanced analytics gained an edge, leaving AtliQ struggling with outdated methods. To stay competitive, AtliQ launched a data analytics project to make data driven decision making & strategic growth.
 
-**C)🎯Project Objective:**
+**C)Project Objective:**
 
 To develop an intuitive dashboard that delivers actionable insights for finance, sales, marketing, and supply chain teams, along with an executive and key performers view. This will enhance transparency, improve data accessibility, and empower stakeholders to make informed, data-driven decisions for strategic growth and efficiency.
 
-**D)🛢Data Overview:**
+**D)Data Overview:**
 
 **3 Excel files:**
 
@@ -69,7 +69,7 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
  
  NOTE: Since this is a bootcamp project, the data files cannot be shared.
 
-**E)🧹️Data Cleaning & Transformation**:
+**E)Data Cleaning & Transformation**:
 
 **Standardized & Trimmed Data:**
 
@@ -87,11 +87,11 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 			
 4)Disabled load for tables that were used to derive calculations in fact_actual_estimates to optimize performance and reduce the Power BI report size.
 
-**F) 🛢 Data Model:**
+**F)Data Model:**
 
  Snowfall data modeling method.
 		
-**G)💡Insights:**
+**G)Insights:**
 
 **Business Growth & Financial Performance:**
 
@@ -141,7 +141,7 @@ AtliQ’s fiscal year runs from September to August, and the dataset covers actu
 			 
 3)The UK had the highest marketing costs, making it a key area for strategy review, followed by Germany (low revenue, high marketing spend).
 			 
-**H)📝 Recommendations:**
+**H)Recommendations:**
 
 1)Gradually reduce operational and marketing expenses after capturing significant market share to improve Net Profit %.
 			 

@@ -4,7 +4,7 @@ I worked on this project by following the Codebasics Power Bi Course, Link to th
 
 Live Power BI Project Dashboard Link : (https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885)
 
-Poject Presentation PDF : 
+Poject Presentation PDF : https://github.com/Karthik54321eng/Business-Insights-360/blob/main/Business%20Insights%20360.pptx
 
 **🛠️Tools:**
 

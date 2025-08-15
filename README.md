@@ -2,17 +2,17 @@
 
 I worked on this project by following the Codebasics Power Bi Course, Link to the course is     (https://prod4.codebasics.io/)
 
-Live Power BI Project Link : (https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885)
+Live Power BI Project Dashboard Link : (https://app.powerbi.com/links/XjxtLXamvG?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=71b8878d-d1bc-4495-a327-6ad629916885)
 
-Dashboard in PDF : (https://smallpdf.com/file#s=a83dca1c-e9ec-436d-bc3f-20c4695b1263)
+Poject Presentation PDF : 
 
 **🛠️Tools:**
 
-  1)Excel-Data cleaning and transformation, Pivot Table, Power Query.
+  1)Excel-Data cleaning and transformation,Lookup Functions, Pivot Table, Power Query.
   
-  2)SQL-Data Retrieval, Aggregation, Data Integration.
+  2)SQL-Data Retrieval, Data Integration, Aggregate Functions, Window Functions, Joints, CTE,Case Functions & Subqueries.
   
-  3)Power BI Desktop -Data Modelling, Dax, Power Query (M Language).
+  3)Power BI Desktop -Data Modelling, Dax, KPIs, Power Query (M Language).
   
 **A)🏬Company Overview:**
 
